@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <packageId>Peko.MarketValueOverlay</packageId>
+  <name>Market Value Overlay</name>
+  <author>Peko</author>
+  <description>This mod adds an overlay that shows the Market Value of buildings</description>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <modVersion>0.0.0.1</modVersion>
+  <modDependencies>
+  <li>
+    <packageId>brrainz.harmony</packageId>
+    <displayName>Harmony</displayName>
+    <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+  </li>
+</modDependencies>
+</ModMetaData>

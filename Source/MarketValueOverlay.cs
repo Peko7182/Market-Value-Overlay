@@ -62,9 +62,6 @@ namespace MarketValueOverlay
         [HarmonyPostfix]
         public static void Postfix()
         {
-            if (!MarketValueOverlayMod.OverlayEnabled)
-                return;
-            
             MarketValueOverlayMod.Overlay = new Overlay();
         }
     }
